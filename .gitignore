@@ -1,0 +1,7 @@
+*.zip
+*.csv
+*.pkl
+all_coef
+linear_accuracy
+non_lin_results
+cleaned_data
