@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../experimental/FB_analytics_overview/data_collection/git_repo/fb_api/.idea/fb_api.iml" filepath="$PROJECT_DIR$/../../experimental/FB_analytics_overview/data_collection/git_repo/fb_api/.idea/fb_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ml_academy.iml" filepath="$PROJECT_DIR$/.idea/ml_academy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/py.iml" filepath="$PROJECT_DIR$/../../.idea/py.iml" />
     </modules>
   </component>
 </project>

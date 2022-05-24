@@ -2,6 +2,7 @@
 *.csv
 *.pkl
 all_coef
-linear_accuracy
+linear_accuracies
 non_lin_results
 cleaned_data
+.idea/
